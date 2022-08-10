@@ -10,3 +10,13 @@ _____
 
 >__Note__ that you'd better use different GIT commands and create at least 2-3 *__Git commit__* commands.
 _____
+
+![Блок-схема](diagram.png)
+
+
+
+
+
+
+
+
