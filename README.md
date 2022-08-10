@@ -7,3 +7,6 @@ Final test for GeekBrains
 + Write a program on C#
 + Use Git working on this project. 
 _____
+
+>__Note__ that you'd better use different GIT commands and create at least 2-3 *__Git commit__* commands.
+_____
